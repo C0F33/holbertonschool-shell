@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m a=rwx my_dir
