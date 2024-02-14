@@ -1,0 +1,25 @@
+total 84
+drwxrwxr-x 2 angel angel 4096 feb 14 12:15 .
+drwxrwxr-x 6 angel angel 4096 feb 14 10:02 ..
+-rwxrw-r-- 1 angel angel   32 feb 14 10:14 0-hello_world
+-rwxrw-r-- 1 angel angel   33 feb 14 10:06 0-hello_world~
+-rwxrw-r-- 1 angel angel   23 feb 14 10:23 1-confused_smiley
+-rwxrw-r-- 1 angel angel   27 feb 14 10:20 1-confused_smiley~
+-rwxrw-r-- 1 angel angel   27 feb 14 10:27 2-hellofile
+-rwxrw-r-- 1 angel angel   38 feb 14 10:31 3-twofiles
+-rwxrw-r-- 1 angel angel   28 feb 14 10:39 4-lastlines
+-rwxrwxr-x 1 angel angel   28 feb 14 10:40 5-firstlines
+-rwxrw-r-- 1 angel angel   36 feb 14 11:01 6-third_line
+-rwxrw-r-- 1 angel angel   99 feb 14 12:04 7-file
+-rwxrw-r-- 1 angel angel   35 feb 14 12:15 8-cwd_state
+-rw-rw-r-- 1 angel angel   39 feb 14 11:38  \*\'Best
+-rw-rw-r-- 1 angel angel   40 feb 14 11:50 ' \*\'Best
+-rw-rw-r-- 1 angel angel   38 feb 14 11:48 \*\'Best
+-rw-rw-r-- 1 angel angel   12 feb 14 11:40  \*"'"Best School'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 angel angel   12 feb 14 11:40 \*"'"Best School'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 angel angel    0 feb 14 12:15 ls_cwd_content
+-rw-rw-r-- 1 angel angel 1823 feb 14 10:18 README.md
+-rw-rw-r-- 1 angel angel    7 feb 14 10:24 smiley
+-rw-rw-r-- 1 angel angel 2747 feb 14 10:35 tail
+-rw-rw-r-- 1 angel angel    0 feb 14 11:10 test
+-rw-rw-r-- 1 angel angel    0 feb 14 11:09 test.txt
