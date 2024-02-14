@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '2p' iacta
+cat 6-third_line | wc -l
