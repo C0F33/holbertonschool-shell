@@ -1,0 +1,1 @@
+0-alias - this script createas an aliast for "rm *"
